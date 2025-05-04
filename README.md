@@ -1,5 +1,3 @@
-<div align="center">
-  <br>
 <h2>About</h2>
 
 This is my first Discord theme, meant to create a somewhat similar look of the code of the Murder Drones (the show on YouTube) Visors.
